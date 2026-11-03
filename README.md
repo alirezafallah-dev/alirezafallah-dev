@@ -174,21 +174,21 @@ I believe the best way to improve as a developer is through building real produc
 Every project is an opportunity to explore new technologies, solve practical problems, write better code, and create better user experiences.
 
 ---
-
 ## 🤝 Let's Connect
 
 I'm always open to interesting projects, collaboration opportunities, and conversations about frontend development.
 
-<p>
+<p align="center">
   <a href="https://github.com/alirezafallah-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/alirezafallah-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alirezafallah.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<!-- Add your verified professional links here:
-LinkedIn: https://www.linkedin.com/in/alirezafallah-dev/
-Email: alirezafallah.dev@gmail.com
--->
 
 ---
 
